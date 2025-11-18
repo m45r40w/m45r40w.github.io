@@ -1,0 +1,7 @@
+title: "kbzm.io"
+description: "@m45r40w personal portal / 'kbzm' official web"
+domain: kbzm.io
+url: https://kbzm.io
+remote_theme: pages-themes/slate@v0.2.0
+plugins:
+- jekyll-remote-theme
